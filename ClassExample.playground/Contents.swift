@@ -32,7 +32,7 @@ import PlaygroundSupport
  
  */
 // Create an object of type Canvas, named "canvas"
-let canvas = Canvas(width: 500, height: 500)
+let canvas = Canvas(width: 400, height: 400)
 
 // Create an object of type Image, named "image"
 let image = Image(drawOn: canvas)
